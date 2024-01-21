@@ -6,7 +6,8 @@
 
 This is a 3D car game developed using [insert game engine/framework/library]. Players can [describe the main features and gameplay of your game].
 
-![Gameplay Screenshot]("C:\Users\supri\OneDrive\Pictures\Screenshots\Screenshot 2024-01-21 171751.png")
+![Screenshot 2024-01-21 171751](https://github.com/CodeLannister/IARE_Project_3DCar/assets/155650875/a9495e23-cac4-460e-90a8-62ae43fff551)
+
 
 ## Features
 
