@@ -17,7 +17,7 @@ This is a 3D car game developed using [insert game engine/framework/library]. Pl
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/3d-car-game.git`
+1. Clone the repository: `git clone https:https://github.com/CodeLannister/IARE_Project_3DCar.git`
 2. [Additional steps if necessary]
 
 ### Usage
