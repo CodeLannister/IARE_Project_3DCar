@@ -6,7 +6,7 @@
 
 This is a 3D car game developed using [insert game engine/framework/library]. Players can [describe the main features and gameplay of your game].
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot]("C:\Users\supri\OneDrive\Pictures\Screenshots\Screenshot 2024-01-21 171751.png")
 
 ## Features
 
